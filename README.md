@@ -41,10 +41,4 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 
 - Follow the prompts to input reservation details, view current reservations, edit existing bookings, and more.
 
-### Contributing 🤝
-- Contributions are welcome! Feel free to open issues and pull requests for bug fixes, enhancements, or new features.
-
-### Acknowledgments 🙏
-- Special thanks to all contributors and supporters of the Hotel Reservation System project.
-
 ### Happy booking! 🌆
